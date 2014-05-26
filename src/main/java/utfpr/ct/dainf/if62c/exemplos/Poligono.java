@@ -14,6 +14,7 @@ public abstract class Poligono implements Figura, Serializable {
      * Este método retorno o nome não qualificado da classe.
      * @return O nome da figura.
      */
+    @Override
     public String getNome() {
         return this.getClass().getSimpleName();
     }
