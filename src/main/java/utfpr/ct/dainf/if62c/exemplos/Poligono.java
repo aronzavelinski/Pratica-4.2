@@ -1,5 +1,6 @@
 package utfpr.ct.dainf.if62c.exemplos;
 
+import utfpr.ct.dainf.if62c.pratica.Figura;
 import java.io.Serializable;
 
 /**

@@ -1,4 +1,4 @@
-package utfpr.ct.dainf.if62c.exemplos;
+package utfpr.ct.dainf.if62c.pratica;
 
 /**
  * IF62C Fundamentos de Programação 2

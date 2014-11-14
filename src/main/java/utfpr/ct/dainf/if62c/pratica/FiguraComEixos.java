@@ -5,8 +5,6 @@
  */
 package utfpr.ct.dainf.if62c.pratica;
 
-import utfpr.ct.dainf.if62c.exemplos.Figura;
-
 /**
  *
  * @author aron
